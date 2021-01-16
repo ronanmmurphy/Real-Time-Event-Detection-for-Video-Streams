@@ -26,6 +26,7 @@ Another issue we encountered was that the MSCOCO dataset detects objects other t
 ○ Sedan
 
 ○ Hatchback
+
 The Classifier Model was trained in the following steps:
 Step 1
 In order to obtain car images of type Sedan and Hatchback it was necessary to create an image scraper to scrape these images from the internet. We adapted an image scraping example found onlinevii and
