@@ -1,0 +1,2 @@
+# Real-Time-Event-Detection-for-Video-Streams
+Designed and implemented Computer Vision pipeline for Video Stream object detection and classification. This Real-Time classifier used YOLO, MobileNet, and OpenCV to detect cars and classify their type and colour. The evaluation of the video was compared with a ground truth file which our pipeline which we calculated F1-Scores. The system scored 94%, 85%, and 90% for the detection of cars, classification of car type, and classification of car colour respectively. 
